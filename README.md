@@ -1,0 +1,2 @@
+# paginaBarcelonacurso
+Trabajo de escuela
